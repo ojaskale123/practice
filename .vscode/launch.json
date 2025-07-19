@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Circlearea",
+            "request": "launch",
+            "mainClass": "com.adi.Circlearea",
+            "projectName": "assignment-lec3_621c3640"
+        },
+        {
+            "type": "java",
+            "name": "Rectriangle",
+            "request": "launch",
+            "mainClass": "com.adi.Rectriangle",
+            "projectName": "assignment-lec3_621c3640"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "com.adi.Triangle",
+            "projectName": "assignment-lec3_621c3640"
+        }
+    ]
+}
